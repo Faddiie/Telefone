@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964279810446",
+    "firebase_url": "https://insta-clone-bcd8a.firebaseio.com",
+    "project_id": "insta-clone-bcd8a",
+    "storage_bucket": "insta-clone-bcd8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964279810446:android:27f06b0a5db2c6e3b70cdf",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964279810446-5ptp4sasqjj71ltmeo4ks43k3l7fhunt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.socialmedia",
+            "certificate_hash": "ef22b6b64dad4542249433ee161cc0563d4d6c61"
+          }
+        },
+        {
+          "client_id": "964279810446-se7ml9plv4mm49rjadn2l5ovgkdjasoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAui4mqRTvKzMLQnF8MNCenSHcle5hBKgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964279810446-se7ml9plv4mm49rjadn2l5ovgkdjasoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
